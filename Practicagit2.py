@@ -1,2 +1,2 @@
 print("editando fichero ")
-print("prueba de github con git")
+print("prueba de github cv2")
